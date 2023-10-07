@@ -3,6 +3,7 @@ using namespace std;
 
 int main()
 {
-    std ::cout << "hello word";
+    int price = 100;
+    cout << "the price is: " << price;
     return 0;
 }
